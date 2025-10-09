@@ -12,7 +12,7 @@
 
 ---
 
-## ABOUT ME
+## SOBRE MI
 
 Soy **Diego Bernilla**, estudiante de **Ingeniería de Software** en la **UNMSM** (5to Ciclo). 
 
