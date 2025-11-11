@@ -4,7 +4,7 @@
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=00D9A3&height=200&section=header&text=Diego%20Bernilla&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=E3DAC9)
   
-  ### Software Engineering Student | Fast Learner | Problem Solver 😺✌️
+  ### Software Engineering Student | Fast Learner | Problem Solver 
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Building+efficient+solutions;Learning+new+technologies;Collaborating+on+impactful+projects)](https://git.io/typing-svg)
 
@@ -82,7 +82,7 @@ Aplicación dirigida a estudiantes de nivel intermedio-avanzado para prepararse 
 
 ---
 
-## Contactate conmigo 😺
+## Contactate conmigo 
 
 <!-- Descomenta y añade tus enlaces cuando los tengas -->
 <!--
@@ -97,7 +97,7 @@ Aplicación dirigida a estudiantes de nivel intermedio-avanzado para prepararse 
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00D9A3&height=100&section=footer)
   
-  ** "Sin voluntad que quebrar, sin voz que grite de sufrimiento, nacido del Dios y el Vacio." - Pale King**
+  ** "¿Qué es la vida? Una ilusión, una sombra, una ficción; y el mayor bien es pequeño: que toda la vida es sueño, y los sueños, sueños son" **
   
   ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=washan-9.washan-9)
   
