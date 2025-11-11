@@ -97,7 +97,7 @@ Aplicación dirigida a estudiantes de nivel intermedio-avanzado para prepararse 
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00D9A3&height=100&section=footer)
   
-  ** "¿Qué es la vida? Una ilusión, una sombra, una ficción; y el mayor bien es pequeño: que toda la vida es sueño, y los sueños, sueños son" **
+  ** "¿Qué es la vida? Una ilusión, una sombra, una ficción; y el mayor bien es pequeño, que toda la vida es sueño, y los sueños, sueños son" **
   
   ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=washan-9.washan-9)
   
